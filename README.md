@@ -28,3 +28,9 @@ Here are some ideas to get you started:
 🔹 🔥 **Develop High-Performance Web Apps** (React, Node.js, Flask, Spring Boot)  
 🔹 🔋 **Tinker with IoT & Embedded Systems**  
 
+
+## 📌 Certifications & Achievements  
+✅ **9x AWS Certified** – ML, DevOps, Cloud, Security, and more  
+🥇 **State Captain** – U19 Cricket Nationals  
+🥋 **Black Belt** – Taekwondo Champion (18 District Medals)  
+🎤 **Event Lead** – Annual Colossus Hackathon  
