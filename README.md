@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 🚀 Harsha Rajendra | Software Engineer & AI Innovator  
+
+🎓 **MS in Computer Science** @ Rutgers University | AI | Cloud | Web Dev  
+🧠 **AI & ML Enthusiast** | **Full-Stack Developer** | **9x AWS Certified**  
+
+## 💻 What I Do  
+🔹 ⚙️ **Refactor Legacy Codebases** for performance & scalability  
+🔹 🤖 **Build AI-Driven Solutions** (Computer Vision, NLP, LLMs)  
+🔹 ☁️ **Architect Cloud-Native Apps** on AWS, GCP, & Kubernetes  
+🔹 🔥 **Develop High-Performance Web Apps** (React, Node.js, Flask, Spring Boot)  
+🔹 🔋 **Tinker with IoT & Embedded Systems**  
+
